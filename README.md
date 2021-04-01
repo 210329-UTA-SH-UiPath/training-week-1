@@ -59,6 +59,15 @@
     - maintainable
     - testable
     - configurable
+  - modifiers
+    - access: public, private protected, internal (protected internal, private protected)
+    - general: static, const, readonly, new, override, abstract, sealed, virtual
+  - project files, solution files
+  - scopes
+    - namespace
+    - class, interface, struct, enum
+    - method
+    - block
 
 ## git
 
@@ -70,6 +79,11 @@
 - `git log --depth`
 - `git clone` = copy for the first time from remote to local
 - `git pull` = sync from remote to local folowing first copy
+
+
+##
+
+- MS Docs: docs.microsfot.com/learn/csharp
 
 ## code challenges
 
