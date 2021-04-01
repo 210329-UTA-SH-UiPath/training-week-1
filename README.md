@@ -29,9 +29,12 @@
   - Languages
   - .NET SDK
 - commands
-  - `dotnet new`
+  - `dotnet new [console] [classlib] [xunit]`
   - `dotnet build`
   - `dotnet run`
+  - `dotnet add <project> reference <project>`
+  - `dotnet sln add **/*.csproj`
+  - `dotnet test`
 - C#
   - strongly-typed, statically-typed language, compiled
   - value, reference types
